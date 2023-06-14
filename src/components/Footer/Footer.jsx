@@ -1,5 +1,5 @@
 import burterfly from '../assets/img/buterflyicon.png';
-import { ContainerFooter } from './Styles';
+import { ContainerFooter } from  './Styles';
 import { Logo } from './Styles';
 
 export default function Footer() {
